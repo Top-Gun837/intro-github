@@ -21,9 +21,10 @@ People use GitHub to build some of the most advanced technologies in the world. 
 In this exercise, you will:
 
 1. Create a branch
-2. Commit a file
+2. Commit a file 
 3. Open a pull request
 4. Merge your pull request
+5.Learn how to navigate
 
 ### How to start this exercise
 
